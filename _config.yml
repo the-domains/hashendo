@@ -2,7 +2,6 @@ name: hashendo
 favicon: null
 layout_spectrum: 0.49803185486234725
 typography_spectrum: 0.5206054963637143
-title: Your source for all things mary jane
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#006733'
-    - '#f15430'
-    - '#ffffff'
-    - '#653311'
-    - '#95cc4d'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
   brandStrength: 0.543571645161137
-  lightness: 0.3125
+  lightness: 0.5993172388989478
   saturation: 0.6042607212439179
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.7571708364412189
 purpose: []
