@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Cannahoney the latest superfood
-datePublished: '2016-08-27T03:11:08.606Z'
-dateModified: '2016-08-27T03:10:45.896Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-27T03:16:24.102Z'
+dateModified: '2016-08-27T03:11:17.467Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-08-27-cannahoney-the-latest-superfood.md
+authors: []
+publisher: {}
+starred: false
 url: cannahoney-the-latest-superfood/index.html
 _type: Article
 
